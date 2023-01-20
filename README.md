@@ -1,2 +1,2 @@
 # my-examples
-my flower project
+my flowers project
