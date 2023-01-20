@@ -1,0 +1,13 @@
+
+.dry {
+    color: darkred;
+    text-transform: capitalize;
+  }
+  .wet {
+    color: darkblue;
+    text-transform: capitalize;
+  }
+  .ok {
+    color: green;
+    text-transform: capitalize;
+  }
